@@ -12,6 +12,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -25,4 +26,12 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
