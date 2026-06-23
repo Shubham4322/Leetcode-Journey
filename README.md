@@ -12,6 +12,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
