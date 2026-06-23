@@ -7,12 +7,22 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
