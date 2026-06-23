@@ -17,6 +17,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
