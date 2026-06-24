@@ -8,6 +8,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | ------- |
 | [0009-palindrome-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Array
@@ -68,6 +69,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -79,4 +81,8 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
