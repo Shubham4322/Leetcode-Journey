@@ -7,6 +7,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Array
@@ -27,6 +28,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
