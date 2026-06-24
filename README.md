@@ -44,6 +44,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0242-valid-anagram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -71,4 +72,9 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | ------- |
 | [0242-valid-anagram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
