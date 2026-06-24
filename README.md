@@ -11,6 +11,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | ------- |
 | [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -87,4 +89,5 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | ------- |
 | [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
