@@ -56,6 +56,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0349-intersection-of-two-arrays](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -90,10 +91,12 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0242-valid-anagram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -109,4 +112,8 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
