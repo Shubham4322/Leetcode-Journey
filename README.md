@@ -18,6 +18,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
 | ------- |
