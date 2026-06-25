@@ -99,6 +99,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
 ## Counting
 |  |
