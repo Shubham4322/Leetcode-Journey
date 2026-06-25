@@ -64,6 +64,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -75,6 +76,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -93,6 +95,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -101,6 +104,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
