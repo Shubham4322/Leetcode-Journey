@@ -65,6 +65,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0709-to-lower-case](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
