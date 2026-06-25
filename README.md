@@ -35,6 +35,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Binary Search
 |  |
@@ -101,6 +102,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0412-fizz-buzz](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Counting
 |  |
 | ------- |
