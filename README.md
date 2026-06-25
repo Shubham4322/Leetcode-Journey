@@ -14,6 +14,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -97,6 +98,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
 ## Counting
 |  |
@@ -114,6 +116,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | ------- |
 | [0067-add-binary](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
