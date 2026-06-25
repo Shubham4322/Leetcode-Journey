@@ -7,6 +7,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0258-add-digits) |
@@ -73,12 +74,14 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
@@ -95,6 +98,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
