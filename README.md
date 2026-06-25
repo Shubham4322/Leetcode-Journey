@@ -15,6 +15,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0326-power-of-three](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0485-max-consecutive-ones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
