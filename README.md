@@ -58,6 +58,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
 ## Counting
 |  |
 | ------- |
