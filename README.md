@@ -49,6 +49,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
@@ -85,6 +86,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1512-number-of-good-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2418-sort-the-people](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +138,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
