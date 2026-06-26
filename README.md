@@ -38,6 +38,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
@@ -87,6 +88,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0389-find-the-difference](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,4 +151,8 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
