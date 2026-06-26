@@ -11,6 +11,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0069-sqrtx](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0342-power-of-four) |
