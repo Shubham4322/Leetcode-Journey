@@ -57,6 +57,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2418-sort-the-people) |
+| [2974-minimum-number-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0067-add-binary](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -184,6 +187,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
