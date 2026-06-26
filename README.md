@@ -24,6 +24,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1748-sum-of-unique-elements](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2418-sort-the-people) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +179,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
