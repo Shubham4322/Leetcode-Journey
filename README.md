@@ -93,6 +93,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1512-number-of-good-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -150,6 +151,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1816-truncate-sentence](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1844-replace-all-digits-with-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2418-sort-the-people) |
@@ -161,6 +163,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Recursion
 |  |
 | ------- |
