@@ -118,6 +118,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0412-fizz-buzz](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
+| [1108-defanging-an-ip-address](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
