@@ -31,6 +31,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [2469-convert-the-temperature](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2651-calculate-delayed-arrival-time) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
