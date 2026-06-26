@@ -38,6 +38,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Binary Search
@@ -137,4 +138,8 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
