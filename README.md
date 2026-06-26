@@ -21,6 +21,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -136,6 +137,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
