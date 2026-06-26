@@ -39,6 +39,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -104,6 +105,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -120,6 +122,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
