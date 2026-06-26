@@ -9,6 +9,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0009-palindrome-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0263-ugly-number) |
@@ -70,6 +71,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
@@ -100,6 +102,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
