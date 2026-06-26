@@ -41,6 +41,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1512-number-of-good-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Binary Search
@@ -73,6 +74,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0383-ransom-note](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 ## Recursion
 |  |
 | ------- |
