@@ -24,6 +24,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -52,6 +53,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [1672-richest-customer-wealth](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
