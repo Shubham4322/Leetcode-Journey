@@ -88,6 +88,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0242-valid-anagram) |
@@ -147,6 +148,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
@@ -210,4 +212,8 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
