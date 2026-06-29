@@ -38,6 +38,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | ------- |
 | [0031-next-permutation](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
