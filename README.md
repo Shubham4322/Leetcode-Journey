@@ -36,6 +36,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -92,6 +93,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
