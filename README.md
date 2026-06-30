@@ -39,6 +39,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [0031-next-permutation](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -213,6 +215,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sliding Window
 |  |
