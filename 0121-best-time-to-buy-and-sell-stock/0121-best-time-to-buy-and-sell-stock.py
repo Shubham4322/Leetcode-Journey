@@ -8,3 +8,4 @@ class Solution:
             if (prices[i]-mi) >res:
                 res= prices[i]-mi
         return res
+
