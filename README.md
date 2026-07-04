@@ -158,6 +158,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0344-reverse-string) |
@@ -231,4 +232,8 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
