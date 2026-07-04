@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        b = {'{':'}','(':')','[':']'}
-        c =[] 
+        b = {'{':'}','[':']','(':')'}
+        c=[]
         for i in s:
             if i not in b:
                 if not(c) or c.pop()!=i:
@@ -9,8 +9,6 @@ class Solution:
             else:
                 c.append(b[i])
         return len(c)==0
-
-
 
 
 
