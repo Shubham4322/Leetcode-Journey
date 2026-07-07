@@ -38,6 +38,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0283-move-zeroes) |
