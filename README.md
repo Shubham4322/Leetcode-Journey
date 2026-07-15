@@ -34,6 +34,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2651-calculate-delayed-arrival-time) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shubham4322/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Tracking my progress and solutions for Data Structures and Algorithms
 | ------- |
 | [0258-add-digits](https://github.com/Shubham4322/Leetcode-Journey/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Shubham4322/Leetcode-Journey/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shubham4322/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
 | ------- |
